@@ -28,7 +28,7 @@
 <div>
   <br/>
   <p align="center">
-    Número de visitas: <br> <img src="https://profile-counter.glitch.me/caiquegarbim01/count.svg" alt="contador de visitas">
+    Número de visitas: <br> <img src="https://profile-counter.glitch.me/caique-garbim/count.svg" alt="contador de visitas">
   </p>
 </div>
 --->
