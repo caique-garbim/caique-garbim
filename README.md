@@ -2,9 +2,9 @@
 <!-- Stats themes: https://github.com/anuraghazra/github-readme-stats/tree/master/themes -->
 
 <div align="center">
-  <a href="https://github.com/caiquegarbim01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquegarbim01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquegarbim01&layout=compact&langs_count=7&theme=algolia"/>
+  <a href="https://github.com/caique-garbim">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caique-garbim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caique-garbim&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 <!-- Technology icons: https://devicon.dev/ -->
