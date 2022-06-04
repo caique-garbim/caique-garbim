@@ -19,22 +19,6 @@
 </div>
 
   ##
- 
-<!-- <div align="center"> -->
-  <!-- <img height="150em" src="https://desecsecurity.com/academy/uploads/badges/network_analyst.png"/> -->
-  <!-- <img height="150em" src="https://desecsecurity.com/academy/uploads/badges/vulnerability_analyst.png"/> -->
-  <!-- <img height="150em" src="https://desecsecurity.com/academy/uploads/badges/vulnerability_research.png"/> -->
-  <!-- <img height="150em" src="https://desecsecurity.com/academy/uploads/badges/social_engineer.png"/> -->
-  <!-- <img height="150em" src="https://desecsecurity.com/academy/uploads/badges/pentester.png"/> -->
-  <!-- <img height="150em" src="https://desecsecurity.com/academy/uploads/badges/skill_pentest_fundamentals.png"/> -->
-  <!-- <img height="150em" src="https://desecsecurity.com/academy/uploads/badges/skill_scripting_programing.png"/> -->
-  <!-- <img height="150em" src="https://desecsecurity.com/academy/uploads/badges/skill_opensource_intelligence.png"/> -->
-  <!-- <img height="150em" src="https://desecsecurity.com/academy/uploads/badges/skill_password_cracker.png"/> -->
-  <!-- <img height="150em" src="https://desecsecurity.com/academy/uploads/badges/skill_internal_assessment.png"/> -->
-  <!-- <img height="150em" src="https://desecsecurity.com/academy/uploads/badges/skill_web_hacking.png"/> -->
-  <!-- <img height="150em" src="https://desecsecurity.com/academy/uploads/badges/skill_post_exploitation.png"/> -->
-  <!-- <img height="150em" src="https://desecsecurity.com/academy/uploads/badges/skill_ctf_player.png"/> -->
-<!-- </div> -->
 
 <!-- Contact badges: https://dev.to/envoy_/150-badges-for-github-pnk -->
 <div>
